@@ -1,2 +1,2 @@
-sx=input()
-print(sx[::-1])
+ax=input()
+print(ax[::-1])
