@@ -1,2 +1,2 @@
-ax=input()
-print(ax[::-1])
+ir=input()
+print(ir[::-1])
