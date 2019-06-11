@@ -1,4 +1,4 @@
-ax=input().split()
-for i in ax:
+sx=input().split()
+for i in sx:
     a=i.capitalize()
     print(a,"",end="")
